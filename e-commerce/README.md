@@ -9,6 +9,9 @@
 - Изучение ассортимента и категоризация товаров
 - Сегментация покупателей по профилю потребления
 
+*Ссылки на дашборды:*
+[Анализ продаж по категориям товаров](https://public.tableau.com/app/profile/evgeniia.poddubnaia6108/viz/Book2_16676552920620/Dashboard1?publish=yes)
+
 [Посмотреть проект](https://github.com/EvgPodd/Data-analysis-projects/blob/main/e-commerce/e-commerce.ipynb)
 
 ## Итоги проекта
