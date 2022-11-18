@@ -5,6 +5,8 @@
 ## Исходные данные
 Для исследования будем использовать открытые данные о заведениях общественного питания в Москве.
 
+[Посмотреть проект](https://github.com/EvgPodd/Data-analysis-projects/blob/main/moscow_restaurants/moscow_restaurants.ipynb)
+
 ## Презентация для инвесторов, которая расскажет о текущем положении дел на рынке общепита: 
 https://drive.google.com/file/d/12br0Z0hq4IYVyi3mJuaG_HYmkHJ7h4se/view?usp=sharing
 
